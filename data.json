@@ -1,0 +1,17 @@
+{
+	"file": "https://mort.mkaciuba.com/media/gallery/25119/14/Ola_95b73d30-e203-11e8-ae67-0242ac120003_gallery_big1300.jpeg",
+	"transformations": [{
+		"type": "crop",
+		"parameters": {
+			"x": 0,
+			"y": 0,
+			"width": 10,
+			"height": 200
+		}
+	}, {
+	"type": "rotate",
+	"parameters": {
+		"angle": 1
+	}
+	}]
+}
