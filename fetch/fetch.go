@@ -40,4 +40,3 @@ func FetchFile(uri string) ([]byte, error) {
 	return buf, nil
 
 }
-

@@ -1,0 +1,28 @@
+{
+  "name": "integrations-tests",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.1",
+    "request": "^2.88.0",
+    "superagent-binary-parser": "^1.0.1",
+    "supertest": "^3.3.0",
+    "adm-zip": "^0.4.11"
+  },
+  "scripts": {
+    "test": "mocha tests/*Spec.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "images",
+    "microservice",
+    "processing",
+    "thumbnails",
+    "processing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
